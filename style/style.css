@@ -1,0 +1,11 @@
+ body {
+     text-align: center;
+ }
+
+ canvas {
+     border: dotted 2px yellowgreen;
+ }
+
+ * {
+     font-family: 'Indie Flower', cursive;
+ }
